@@ -1,0 +1,14 @@
+flask==1.1.1
+tensorflow==1.14
+opencv-python==3.4.3.18
+numpy==1.18.2
+cython
+keras-resnet==0.1.0
+h5py
+matplotlib
+keras-retinanet==0.4.1
+pillow
+pydensecrf
+keras==2.2.4
+progressbar2
+scikit-image==0.15.0
