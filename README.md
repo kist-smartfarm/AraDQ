@@ -19,7 +19,7 @@
 			- https://aka.ms/vs/16/release/vs_buildtools.exe
 		- ref :https://www.scivision.co/python-windows-visual-c-14-required
 	- Run 'python setup.py build_ext --inplace' on c:\leejaehoon\AraDQ (example)
-		- ref : https://github.com/ektf1130/AraDQ/tree/master/keras_retinanet
+		- ref : https://github.com/kist-smartfarm/AraDQ/tree/main/keras_retinanet
 	- pip install -r requirements.txt on c:\leejaehoon\AraDQ (example)
 
 - 4.Please download weight files
