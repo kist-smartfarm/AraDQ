@@ -45,4 +45,3 @@
 # Note
 - This repository was tested using Python 3.6 (Windows 10).
 - This repository was tested using Python 3.6 (Mac OSX 10.13.6 High Sierra and Mac OSX 12.2.1 Monterey).
-- 
