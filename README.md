@@ -1,4 +1,4 @@
-# Installation (2020.06 updated)
+# Installation (2022.03 updated)
 - 1.Download software (Please click 'Clone of download' button and then 'Download zip' button)
 	- download as a zip (extracting a zip file)
 		- ex. c:\leejaehoon\AraDQ
@@ -23,10 +23,10 @@
 	- pip install -r requirements.txt on c:\leejaehoon\AraDQ (example)
 
 - 4.Please download weight files
-	- https://github.com/ektf1130/AraDQ/tree/master/weights/ara_segmetnation
+	- https://drive.google.com/file/d/1XTPQVzlqdVw5LM9_EYab3YiG9nqkFl3-/view?usp=sharing
 		- extracting a zip file
 		- put the 'ara_segmentation_model.h5' weight file and 'model.json' to the 'c:\leejaehoon\AraDQ\weights\ara_segmetnation' folder (example)
-	- https://github.com/ektf1130/AraDQ/tree/master/weights/colorcard
+	- https://drive.google.com/file/d/11LdAtXLFsZAOYpdKNuc11B_2XaD7y66E/view?usp=sharing
 		- extracting a zip file
 		- put the 'color_card_model.h5' weight file to the 'c:\leejaehoon\AraDQ\weights\colorcard' folder (example)
 
