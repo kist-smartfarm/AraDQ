@@ -1,5 +1,5 @@
 # Installation (2022.03 updated)
-- 1.Download software (Please click 'Clone of download' button and then 'Download zip' button)
+- 1.Download software (https://github.com/kist-smartfarm/AraDQ/archive/refs/heads/main.zip)
 	- download as a zip (extracting a zip file)
 		- ex. c:\leejaehoon\AraDQ
 - 2.Install anaconda 
