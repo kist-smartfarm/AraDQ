@@ -1,4 +1,4 @@
-# Manual of Installation (2022.03 updated)
+# Manual of Installation (2022.06 updated)
 - 1.Download software (https://github.com/kist-smartfarm/AraDQ/archive/refs/heads/main.zip)
 	- download as a zip (extracting a zip file)
 		- ex. c:\leejaehoon\AraDQ
