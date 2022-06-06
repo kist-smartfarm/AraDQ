@@ -40,8 +40,11 @@
 # Trouble shooting
 - if you have a error for installing pydensecrf 
 - please run this command
-	- conda install -c conda-forge pydensecrf
+	- conda install -c conda-forge pydensecrf 
 	- ref : https://anaconda.org/conda-forge/pydensecrf
+	or
+	- pip install git+https://github.com/lucasb-eyer/pydensecrf.git
+	- ref : https://github.com/lucasb-eyer/pydensecrf/issues/78
 # Note
 - This repository was tested using Python 3.6 (Windows 10).
 - This repository was tested using Python 3.6 (Mac OSX 10.13.6 High Sierra and Mac OSX 12.2.1 Monterey).
