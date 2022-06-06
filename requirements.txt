@@ -1,6 +1,6 @@
 flask==1.1.1
 tensorflow==1.14
-opencv-python==3.4.3.18
+opencv-python=4.5.5
 numpy==1.18.2
 cython
 keras-resnet==0.1.0
